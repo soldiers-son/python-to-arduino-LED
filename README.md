@@ -1,7 +1,8 @@
 # python-to-arduino-LED
 Simple Tkinter GUI Controller to toggle Arduino LED ON/OFF
 
-0. Prerequisites
+
+# 0. Prerequisites
 
 Python 3.11+
 
@@ -19,7 +20,8 @@ Arduino Setup
 
 -arduino board, bread board, LED, 2 wires, resistor
 
-1. Instructions
+
+# 1. Instructions
    
 -Install prerequisites
 
@@ -35,10 +37,12 @@ Arduino Setup
 
 -Press "OFF" to turn LED off
 
-2. Lincense
+
+# 2. Lincense
 
 MIT Lincense
 
-3. Contact
+
+#3. Contact
 
 github: soldiers-son
