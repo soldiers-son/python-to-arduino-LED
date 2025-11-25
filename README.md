@@ -43,6 +43,6 @@ Arduino Setup
 MIT Lincense
 
 
-#3. Contact
+# 3. Contact
 
 github: soldiers-son
