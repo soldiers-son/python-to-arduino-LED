@@ -9,11 +9,11 @@ Python 3.11+
 
 -pyfirmata (pip install pyfirmata)
 
-Arduino IDE
+Arduino IDE 
 
 -Firmata library(sketch>include_library>managae_libraries)
 
--FirmadaStandard Sketch(file>example>firmata>FirmataStandard)
+-FirmataStandard Sketch(file>example>firmata>FirmataStandard)
 
 Arduino Setup
 
@@ -21,4 +21,24 @@ Arduino Setup
 
 1. Instructions
    
-  1. Install prerequisites
+-Install prerequisites
+
+-Set up Arduino, connecting desired LED to pin 2
+
+-Connect Arduino to your computer
+
+-Open Arduino IDE > Select your board > Open and upload FirmataStandard example sketch (either from examples or FirmataStandard.ino)
+
+-Run py_to_arduino_demo.py
+
+-Press "ON" to turn light on
+
+-Press "OFF" to turn LED off
+
+2. Lincense
+
+MIT Lincense
+
+3. Contact
+
+github: soldiers-son
