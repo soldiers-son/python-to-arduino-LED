@@ -27,7 +27,7 @@ Arduino Setup
 
 -Set up Arduino, connecting desired LED to pin 2
 
-<img width="30px" src="circuit.png" />
+<img width="225px" src="circuit.png" />
 
 -Connect Arduino to your computer
 
