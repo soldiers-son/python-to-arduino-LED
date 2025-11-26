@@ -44,8 +44,7 @@ Arduino Setup
 
 # 2. Lincense
 
-MIT Lincense
-
+This project is open source under the MIT License.
 
 # 3. Contact
 
