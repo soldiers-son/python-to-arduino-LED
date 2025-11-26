@@ -27,6 +27,8 @@ Arduino Setup
 
 -Set up Arduino, connecting desired LED to pin 2
 
+<img width="30px" src="/circuuit.png" />
+
 -Connect Arduino to your computer
 
 -Open Arduino IDE > Select your board > Open and upload FirmataStandard example sketch (either from examples or FirmataStandard.ino)
