@@ -35,6 +35,8 @@ Arduino Setup
 
 -Run py_to_arduino_demo.py
 
+<img  src="demo.png" />
+
 -Press "ON" to turn light on
 
 -Press "OFF" to turn LED off
